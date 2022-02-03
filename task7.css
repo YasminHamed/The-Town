@@ -1,0 +1,303 @@
+body{
+    height: 2650px;
+    position: relative;
+    margin: 0px;
+}
+.background1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -1px;
+}
+.p{
+    position: absolute;
+    font-size: 19px;
+    top: 10px;
+    left: 150px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.a{
+    color: rgb(0, 110, 255);
+    position: absolute;
+    top:25px;
+    right: 410px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a1{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top:25px;
+    right: 310px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a2{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top:25px;
+    right: 210px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h{
+    position: absolute;
+    top: 190px;
+    left: 530px;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 2px rgb(0, 0, 0);
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p1{
+    position: absolute;
+    top: 275px;
+    left: 550px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p2{
+    position: absolute;
+    top: 295px;
+    left: 580px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.h1{
+    font-size: 35px;
+    color: rgb(0, 110, 255);
+    position: absolute;
+    top: 720px;
+    left: 720px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p3{
+    color: rgb(105, 105, 105);
+    width: 410px;
+    position: absolute;
+    top: 805px;
+    left: 720px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p33{
+    color: rgb(105, 105, 105);
+    position: absolute;
+    font-size: 16px;
+    top: 845px;
+    left: 720px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p4{
+    color: rgb(105, 105, 105);
+    width: 395px;
+    position: absolute;
+    top: 895px;
+    left: 720px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h2{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 1000px;
+    left: 720px;
+    background-color: rgb(0, 110, 255);
+    color: rgb(255, 255, 255);
+    padding: 10px 30px;
+    border-radius: 50px;
+    font-size: 17px;
+}
+.p5{
+    color: rgb(105, 105, 105);
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 1150px;
+    left: 130px;
+    font-size: 35px;
+}
+.p6{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 1210px;
+    left: 170px;
+    color: rgb(0, 110, 255);
+}
+.p7{
+    color: rgb(105, 105, 105);
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 100px;
+    top: 1250px;
+    width: 350px;
+}
+.p8{
+    color: rgb(105, 105, 105);
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 1150px;
+    left: 500px;
+    font-size: 35px; 
+}
+.p9{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 1210px;
+    left: 550px;
+    color: rgb(0, 110, 255);
+}
+.p10{
+    color: rgb(105, 105, 105);
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 450px;
+    top: 1250px;
+    width: 350px;
+}
+.p11{
+    color: rgb(105, 105, 105);
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 1150px;
+    left: 900px;
+    font-size: 35px; 
+}
+.p12{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 1210px;
+    left: 950px;
+    color: rgb(0, 110, 255); 
+}
+.p13{
+    color: rgb(105, 105, 105);
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 860px;
+    top: 1250px;
+    width: 350px;
+}
+.p14{
+    color: rgb(0, 110, 255); 
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    font-size: 40px;
+    top: 1400px;
+    left: 550px;
+}
+.p15{
+    color: rgb(105, 105, 105);
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    width: 600px;
+    top: 1500px;
+    left: 350px;
+}
+.img1{
+    position: absolute;
+    top: 1650px;
+    left: 120px;
+}
+.img2{
+    position: absolute;
+    top: 1650px;
+    left: 330px;
+}
+.img3{
+    position: absolute;
+    top: 1650px;
+    left: 540px;
+}
+.img4{
+    position: absolute;
+    top: 1650px;
+    left: 750px;
+}
+.img5{
+    position: absolute;
+    top: 1650px;
+    left: 960px;
+}
+.background2{
+    position: absolute;
+    bottom: 0px;
+}
+.p16{
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 2020px;
+    left: 250px;
+    font-size: 35px;
+    padding-bottom: 20px;
+    border-bottom: 8px solid rgb(255, 255, 255);
+}
+.p17{
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    position: absolute;
+    top: 2100px;
+    left: 250px;
+    width: 700px;
+    border-top: 1.5px solid rgb(255, 255, 255);
+    padding-top: 60px;
+}
+.phone{
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 2300px;
+    left: 250px;
+}
+.location{
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 2400px;
+    left: 250px;
+}
+.email{
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 2300px;
+    left: 750px;
+}
+.email1{
+    position: absolute;
+    top: 2400px;
+    left: 750px;
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid rgb(255, 255, 255);
+    font-size: 15px;
+    padding: 10px;
+    width: 200px;
+}
+.p18{
+    position: absolute;
+    top: 2383px;
+    left: 990px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 255, 255);
+    padding: 12px 30px;
+    border-radius: 3px;
+}
+.p19{
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    bottom: 30px;
+    left: 500px;
+    font-size: 12px;
+}
